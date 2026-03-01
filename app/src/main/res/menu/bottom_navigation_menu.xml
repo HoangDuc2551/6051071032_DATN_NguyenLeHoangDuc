@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/home_icon"
+        android:id="@+id/menu_home"/>
+
+    <item android:title="Notifications"
+        android:icon="@drawable/notification_icon"
+        android:id="@+id/menu_notification"/>
+
+    <item android:title="Friends"
+        android:icon="@drawable/friend_icon"
+        android:id="@+id/menu_friend"/>
+
+
+    <item android:title="Profile"
+        android:icon="@drawable/person_icon"
+        android:id="@+id/menu_profile"/>
+
+    <item android:title="Chats"
+        android:icon="@drawable/message_icon"
+        android:id="@+id/menu_chat"/>
+
+</menu>

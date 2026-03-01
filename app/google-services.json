@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "539370773988",
+    "firebase_url": "https://tiktok-app-7d219-default-rtdb.firebaseio.com",
+    "project_id": "tiktok-app-7d219",
+    "storage_bucket": "tiktok-app-7d219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539370773988:android:54e954bb243da8be6a7bf1",
+        "android_client_info": {
+          "package_name": "com.example.demo_frs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSCe4dgdBAYtXm7DlFUjot4FaQhn4Uug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539370773988:android:feecab7a60152b9b6a7bf1",
+        "android_client_info": {
+          "package_name": "com.example.doan_tmdt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSCe4dgdBAYtXm7DlFUjot4FaQhn4Uug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539370773988:android:91f89b7b878dbcf56a7bf1",
+        "android_client_info": {
+          "package_name": "com.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSCe4dgdBAYtXm7DlFUjot4FaQhn4Uug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539370773988:android:7331ba7c10fde08b6a7bf1",
+        "android_client_info": {
+          "package_name": "com.jian.simplefitv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSCe4dgdBAYtXm7DlFUjot4FaQhn4Uug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539370773988:android:c52f5dd0b8c3111b6a7bf1",
+        "android_client_info": {
+          "package_name": "com.lucky.social_media_lemon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSCe4dgdBAYtXm7DlFUjot4FaQhn4Uug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539370773988:android:a0ed7c4024be3d4d6a7bf1",
+        "android_client_info": {
+          "package_name": "com.schoolmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSCe4dgdBAYtXm7DlFUjot4FaQhn4Uug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
